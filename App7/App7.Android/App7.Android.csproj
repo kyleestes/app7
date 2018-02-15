@@ -19,7 +19,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <AndroidKeyStore>true</AndroidKeyStore>
-    <AndroidSigningKeyStore>C:\Users\kyle\source\App7\App7\App7.Android\release.jks</AndroidSigningKeyStore>
+    <AndroidSigningKeyStore>release.jks</AndroidSigningKeyStore>
     <AndroidSigningKeyAlias>app7key</AndroidSigningKeyAlias>
     <AndroidSigningStorePass>qwerty</AndroidSigningStorePass>
     <AndroidSigningKeyPass>qwerty</AndroidSigningKeyPass>
